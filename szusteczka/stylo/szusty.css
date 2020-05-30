@@ -1,0 +1,23 @@
+.container{
+    margin: 0 auto;
+    background: #002f34;
+    font-size: 30px;
+    padding: 25px;
+}
+.paraolx{
+    background: url('../obr/olxtlo.png') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+    min-width: 200px;
+    margin: 20px;
+    
+}
+.paraolx2 {
+    min-height: 500px;
+    background: transparent;
+}
+.tekst{
+    z-index: 2;
+    position: relative;
+}
